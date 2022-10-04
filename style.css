@@ -43,12 +43,8 @@ nav ul li a:hover {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-<<<<<<< HEAD
     margin: 0 1em 0 1em;
-=======
-    /* margin: 0 1em 0 1em; */
->>>>>>> 502b05deafe76ffca7706126719c6bad41a88085
-   
+
 }
 .main-text{
     color: #f9faf9;
