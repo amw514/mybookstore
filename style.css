@@ -1,11 +1,11 @@
 body{
-    background-image: url("images/background-img.png");
-background-attachment: fixed;}
+
+   }
 header{
     background-color: #1F2937;
     padding: 30px;
     height: 55vh;
-    border-radius: 50px;
+    
 }
 nav{
     display: flex;
@@ -71,4 +71,8 @@ nav ul li a:hover {
     width: 400px;
     height: 300px;
     margin-left: 700px;
+}
+section{
+    height: 300px;
+    border-radius: 60px;
 }
