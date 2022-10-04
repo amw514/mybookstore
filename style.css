@@ -73,7 +73,7 @@ nav ul li a:hover {
     height: 300px;
     margin-left: 700px;
 }
-section{
+.section{
     margin: 0 100px 0 100px;
 }
 .gallery{
@@ -88,4 +88,17 @@ section{
     font-weight: bolder;
     color: #1F2937;
     text-align: center;
+}
+.section-quote{
+    background-color: #e5e7eb;
+    height: 200px;
+    margin: 0 -10px 0 -10px;
+
+}
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    text-align: center;
+    padding-top:50px ;
 }
